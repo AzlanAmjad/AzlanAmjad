@@ -1,4 +1,3 @@
-import NameSign from "./NameSign";
 import profilePhoto from "../assets/images/profile_photo.jpeg";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faLinkedin } from "@fortawesome/free-brands-svg-icons";
@@ -11,9 +10,9 @@ function HeroSection() {
         <div className="flex flex-wrap justify-center gap-x-56 gap-y-5 mb-9">
             <div className="py-14 text-2xl">
                 <p>Hi, my name is</p>
-                <NameSign />
+                <p className="text-5xl my-4 font-medium">Azlan Amjad</p>
                 <p className="inline">I&apos;m a </p>
-                <p className="font-bold inline">Software Engineer</p>
+                <p className="font-medium inline">Software Engineer</p>
             </div>
             <div className="flex flex-col gap-y-5 items-center">
                 <img

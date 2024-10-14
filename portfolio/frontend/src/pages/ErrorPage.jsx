@@ -6,7 +6,7 @@ function ErrorPage() {
 
     return (
         <div>
-            <p>Error: 404 Page Not Found</p>
+            <p className="text-white">Error: 404 Page Not Found</p>
         </div>
     );
 }
