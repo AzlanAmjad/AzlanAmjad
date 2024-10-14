@@ -3,7 +3,7 @@ import MobileNavBar from "./MobileNavBar";
 import { useState } from "react";
 import { Link } from "react-router-dom";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faHamburger } from "@fortawesome/free-solid-svg-icons";
+import { faBars } from "@fortawesome/free-solid-svg-icons";
 
 function NavBar() {
     const [isOpen, setIsOpen] = useState(false);
@@ -16,7 +16,7 @@ function NavBar() {
         <nav className="z-40 flex justify-between items-center bg-night py-8 px-14 font-bold text-2xl w-full fixed top-0 left-0">
             <Logo />
             <FontAwesomeIcon
-                icon={faHamburger}
+                icon={faBars}
                 className="cursor-pointer transition ease-in-out duration-500 hover:scale-110 md:hidden"
                 onClick={toggleNav}
             />
