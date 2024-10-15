@@ -7,7 +7,7 @@ import { faArrowUp } from "@fortawesome/free-solid-svg-icons";
 
 function HeroSection() {
     return (
-        <div className="flex flex-wrap justify-center gap-x-56 gap-y-5 mb-9">
+        <div className="flex flex-wrap justify-center gap-x-56 gap-y-5 mb-24">
             <div className="py-14 text-xl sm:text-2xl">
                 <p>Hi, my name is</p>
                 <p className="text-4xl sm:text-5xl my-4 font-medium">Azlan Amjad</p>
