@@ -2,7 +2,7 @@ import Light from "./Light";
 
 function NameSign() {
     return (
-        <div className="group -rotate-[12deg] relative z-10 bg-darkRed rounded-3xl w-64 h-28 sm:w-[22rem] sm:h-[9rem] mt-6 mb-10 sm:mb-14 flex justify-center items-center">
+        <div className="group -rotate-12 relative z-10 bg-darkRed rounded-3xl w-64 h-28 sm:w-88 sm:h-36 mt-6 mb-10 sm:mb-14 flex justify-center items-center">
             <div className="bg-red w-10/12 h-4/6 rounded-xl flex justify-center items-center">
                 <h1 className="text-4xl sm:text-5xl font-semibold pb-1 text-shadow-long shadow-darkBlue">
                     Azlan Amjad

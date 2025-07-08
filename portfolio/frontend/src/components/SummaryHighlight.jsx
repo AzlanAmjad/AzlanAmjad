@@ -1,6 +1,6 @@
 function SummaryHighlight() {
     return (
-        <p className="max-w-[54rem] text-center">
+        <p className="max-w-216 text-center">
             I&apos;m a Software Engineer at Energy Toolbase, focused on building
             scalable and efficient software. Before that, I spent 16 months at
             Garmin working on embedded systems. I graduated in 2024 with a

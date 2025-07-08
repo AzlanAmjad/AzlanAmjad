@@ -1,3 +1,31 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+
+@import "tailwindcss";
+
+@theme {
+  --font-notoNastaliq: "Noto Nastaliq Urdu", serif;
+  --font-cormorantGaramond: "Cormorant Garamond", serif;
+  --color-night: #080F0F;
+  --color-lightBlue: #008DD5;
+  --color-darkBlue: #001050;
+  --color-red: #A30000;
+  --color-darkRed: #8C0000;
+  --color-yellow: #FFDD4A;
+  --color-white: #FBFFF1;
+  --text-shadow-sm: 2px 2px 0 var(--tw-shadow-color, rgba(0, 0, 0, 1));
+  --text-shadow: 4px 4px 0 var(--tw-shadow-color, rgba(0, 0, 0, 1));
+  --text-shadow-lg: 8px 8px 0 var(--tw-shadow-color, rgba(0, 0, 0, 1));
+  --text-shadow-long: 2px 2px 0 var(--tw-shadow-color, rgba(0, 0, 0, 1)), 3px 3px 0 var(--tw-shadow-color, rgba(0, 0, 0, 1)), 4px 4px 0 var(--tw-shadow-color, rgba(0, 0, 0, 1)), 5px 5px 0 var(--tw-shadow-color, rgba(0, 0, 0, 1)), 6px 6px 0 var(--tw-shadow-color, rgba(0, 0, 0, 1)), 7px 7px 0 var(--tw-shadow-color, rgba(0, 0, 0, 1));
+}
+
+@utility text-shadow-sm {
+  text-shadow: var(--text-shadow-sm);
+}
+@utility text-shadow {
+  text-shadow: var(--text-shadow);
+}
+@utility text-shadow-lg {
+  text-shadow: var(--text-shadow-lg);
+}
+@utility text-shadow-long {
+  text-shadow: var(--text-shadow-long);
+}
