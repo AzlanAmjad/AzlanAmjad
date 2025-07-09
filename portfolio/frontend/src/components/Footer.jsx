@@ -2,8 +2,10 @@ function Footer() {
     const currentYear = new Date().getFullYear();
 
     return (
-        <footer className="bg-black flex justify-center items-center p-20">
-            <p>&copy; {currentYear} Azlan Amjad. All rights reserved.</p>
+        <footer className="relative z-30 bg-black/80 flex justify-center items-center p-20">
+            <p className="text-white/80">
+                &copy; {currentYear} Azlan Amjad. All rights reserved.
+            </p>
         </footer>
     );
 }
