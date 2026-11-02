@@ -22,6 +22,8 @@ Focused on reliability, performance, and automation.
 
 ### ✨ Engineering domains
 
+<img align="right" src="assets/engineering-cat.svg" alt="A cute lavender cat with a blue heart-shaped tag" width="128" height="128">
+
 - ☁️ **Backend & distributed systems** — APIs, service orchestration, and data processing.
 - ⚙️ **Cloud infrastructure & automation** — deployment, observability, and automated testing.
 - 🌱 **Embedded & energy systems** — firmware, control software, and edge computing.
