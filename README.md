@@ -26,11 +26,11 @@
   <a href="https://www.linkedin.com/in/azlanamjad/">LinkedIn</a> · <a href="mailto:azlanamjad_123@hotmail.com">Email</a>
 </p>
 
+<h3>Engineering domains</h3>
+
+<p>☁️ <strong>Backend &amp; distributed systems</strong> — APIs, service orchestration, and data processing.</p>
+<p>⚙️ <strong>Cloud infrastructure &amp; automation</strong> — deployment, observability, and automated testing.</p>
+<p>🌱 <strong>Embedded &amp; energy systems</strong> — firmware, control software, and edge computing.</p>
+<p>🤖 <strong>AI &amp; agentic engineering</strong> — LLM-powered agents and AI-enabled development workflows.</p>
+
 </div>
-
-### Engineering domains
-
-- ☁️ **Backend & distributed systems** — APIs, service orchestration, and data processing.
-- ⚙️ **Cloud infrastructure & automation** — deployment, observability, and automated testing.
-- 🌱 **Embedded & energy systems** — firmware, control software, and edge computing.
-- 🤖 **AI & agentic engineering** — LLM-powered agents and AI-enabled development workflows.
