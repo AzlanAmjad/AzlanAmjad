@@ -1,16 +1,35 @@
-### Hi, i'm Azlan 👋
+# Hi, I'm Azlan 👋
 
-<!--
-**AzlanAmjad/AzlanAmjad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer | Backend development & systems engineering**
 
-Here are some ideas to get you started:
+I build software that connects real-world systems, data, and people.
+My work spans backend services, hardware integrations, and the tooling that
+helps keep systems reliable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Repositories](https://github.com/AzlanAmjad?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/azlanamjad/) · [Email](mailto:azlanamjad_123@hotmail.com)
+
+---
+
+## A little about me
+
+I'm a systems-minded engineer who enjoys understanding how the pieces fit
+together, from device communication and data processing to APIs and user
+interfaces. I value clear design, practical solutions, and software that's
+straightforward to test, operate, and maintain.
+
+## My focus
+
+- **Backend & systems engineering** — building services, integrating hardware
+  and data, and improving reliability.
+- **Quality & automation** — making complex systems easier to validate,
+  troubleshoot, and deploy.
+- **End-to-end development** — connecting infrastructure and backend logic
+  with useful web and mobile experiences.
+
+I'm also interested in distributed systems, machine learning, and how AI can
+make software more useful.
+
+## Get in touch
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/azlanamjad/) or
+[send me an email](mailto:azlanamjad_123@hotmail.com).
