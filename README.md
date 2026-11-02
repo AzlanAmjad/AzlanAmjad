@@ -7,33 +7,30 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-344563?style=flat-square&logo=python&logoColor=bfdbfe)
-![C / C++](https://img.shields.io/badge/C%20%2F%20C%2B%2B-414165?style=flat-square&logo=cplusplus&logoColor=ddd6fe)
-![Go](https://img.shields.io/badge/Go-344563?style=flat-square&logo=go&logoColor=bfdbfe)
-![TypeScript](https://img.shields.io/badge/TypeScript-414165?style=flat-square&logo=typescript&logoColor=ddd6fe)
-![Rust](https://img.shields.io/badge/Rust-414165?style=flat-square&logo=rust&logoColor=ddd6fe)
+<p>
+  I build services, systems software, and AI-powered tools.<br>
+  Focused on reliability, performance, and automation.
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/azlanamjad/) · [Email](mailto:azlanamjad_123@hotmail.com)
-
-I build services, systems software, and AI-powered tools.<br>
-Focused on reliability, performance, and automation.
+<p>
+  <img src="https://img.shields.io/badge/Python-36334f?style=flat-square&amp;logo=python&amp;logoColor=c4b5fd" alt="Python">
+  <img src="https://img.shields.io/badge/C%20%2F%20C%2B%2B-36334f?style=flat-square&amp;logo=cplusplus&amp;logoColor=c4b5fd" alt="C / C++">
+  <img src="https://img.shields.io/badge/Go-36334f?style=flat-square&amp;logo=go&amp;logoColor=c4b5fd" alt="Go">
+  <img src="https://img.shields.io/badge/TypeScript-36334f?style=flat-square&amp;logo=typescript&amp;logoColor=c4b5fd" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Rust-36334f?style=flat-square&amp;logo=rust&amp;logoColor=c4b5fd" alt="Rust">
+  <br>
+  <a href="https://www.linkedin.com/in/azlanamjad/">LinkedIn</a> · <a href="mailto:azlanamjad_123@hotmail.com">Email</a>
+</p>
 
 </div>
 
-### ✨ Engineering domains
+<img align="right" src="assets/engineering-cat.svg" alt="A smiling pastel lavender cat with rosy cheeks, a curled tail, and a blue heart tag" width="112" height="112">
 
-<table role="presentation">
-  <tr>
-    <td valign="top">
-      <ul>
-        <li>☁️ <strong>Backend &amp; distributed systems</strong> — APIs, service orchestration, and data processing.</li>
-        <li>⚙️ <strong>Cloud infrastructure &amp; automation</strong> — deployment, observability, and automated testing.</li>
-        <li>🌱 <strong>Embedded &amp; energy systems</strong> — firmware, control software, and edge computing.</li>
-        <li>🤖 <strong>AI &amp; agentic engineering</strong> — LLM-powered agents and AI-enabled development workflows.</li>
-      </ul>
-    </td>
-    <td align="center" valign="middle" width="152">
-      <img src="assets/engineering-cat.svg" alt="A cute lavender cat with a blue heart-shaped tag" width="128" height="128">
-    </td>
-  </tr>
-</table>
+### Engineering domains
+
+- ☁️ **Backend & distributed systems** — APIs, service orchestration, and data processing.
+- ⚙️ **Cloud infrastructure & automation** — deployment, observability, and automated testing.
+- 🌱 **Embedded & energy systems** — firmware, control software, and edge computing.
+- 🤖 **AI & agentic engineering** — LLM-powered agents and AI-enabled development workflows.
+
+<br clear="right">
