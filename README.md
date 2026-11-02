@@ -22,9 +22,18 @@ Focused on reliability, performance, and automation.
 
 ### ✨ Engineering domains
 
-<img align="right" src="assets/engineering-cat.svg" alt="A cute lavender cat with a blue heart-shaped tag" width="128" height="128">
-
-- ☁️ **Backend & distributed systems** — APIs, service orchestration, and data processing.
-- ⚙️ **Cloud infrastructure & automation** — deployment, observability, and automated testing.
-- 🌱 **Embedded & energy systems** — firmware, control software, and edge computing.
-- 🤖 **AI & agentic engineering** — LLM-powered agents and AI-enabled development workflows.
+<table role="presentation">
+  <tr>
+    <td valign="top">
+      <ul>
+        <li>☁️ <strong>Backend &amp; distributed systems</strong> — APIs, service orchestration, and data processing.</li>
+        <li>⚙️ <strong>Cloud infrastructure &amp; automation</strong> — deployment, observability, and automated testing.</li>
+        <li>🌱 <strong>Embedded &amp; energy systems</strong> — firmware, control software, and edge computing.</li>
+        <li>🤖 <strong>AI &amp; agentic engineering</strong> — LLM-powered agents and AI-enabled development workflows.</li>
+      </ul>
+    </td>
+    <td align="center" valign="middle" width="152">
+      <img src="assets/engineering-cat.svg" alt="A cute lavender cat with a blue heart-shaped tag" width="128" height="128">
+    </td>
+  </tr>
+</table>

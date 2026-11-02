@@ -1,7 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200" role="img" aria-labelledby="title description">
   <title id="title">Engineering companion</title>
   <desc id="description">A happy lavender cat with rosy cheeks, a curled tail, and a blue heart-shaped collar tag.</desc>
-  <circle cx="100" cy="100" r="92" fill="#e8eaff"/>
   <g stroke="#536080" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
     <path d="M137 159c38 9 44-34 25-35-12-1-14 14-4 16" fill="none" stroke="#a5a0cf" stroke-width="12"/>
     <path d="M65 170v-35c0-25 70-25 70 0v35Z" fill="#c4b5e5"/>
