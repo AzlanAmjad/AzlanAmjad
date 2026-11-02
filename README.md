@@ -17,7 +17,7 @@
 
 </div>
 
-I build backend services, systems software, and AI-powered tools.
+I build services, systems software, and AI-powered tools.
 My focus is reliability, performance, and automation, from design to production.
 
 ---
