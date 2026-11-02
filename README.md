@@ -22,19 +22,20 @@
 
 ## 🧩 A little about me
 
-I build software that connects real-world systems, data, and people.
-My work spans backend services, hardware integrations, and the tooling that
-helps keep systems reliable.
+I'm a software engineer who enjoys turning complex problems into clear,
+practical solutions. I work across backend services, data, and applications,
+with an interest in how thoughtful design makes software more reliable
+and easier to use.
 
-I'm a systems-minded engineer who enjoys understanding how the pieces fit
-together, from device communication and data processing to APIs and user
-interfaces. I value clear design, practical solutions, and software that's
-straightforward to test, operate, and maintain.
+I like understanding the bigger picture while paying attention to the details:
+how services fit together, how data moves, and how a system behaves beyond the
+happy path. I care about maintainable code, meaningful tests, and making life
+easier for the people who use and build on my work.
 
 ## 🛠️ My focus
 
-- 🧠 **Backend & systems engineering** — building services, integrating hardware
-  and data, and improving reliability.
+- 🧠 **Backend & systems engineering** — designing services, connecting data,
+  and improving reliability.
 - ⚙️ **Quality & automation** — making complex systems easier to validate,
   troubleshoot, and deploy.
 - 🌐 **End-to-end development** — connecting infrastructure and backend logic
