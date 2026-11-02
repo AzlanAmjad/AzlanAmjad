@@ -22,7 +22,7 @@ Focused on reliability, performance, and automation.
 
 ### ✨ Engineering domains
 
-- 🤖 **AI & agentic engineering** — LLM-powered agents and AI-enabled development workflows.
 - ☁️ **Backend & distributed systems** — APIs, service orchestration, and data processing.
 - ⚙️ **Cloud infrastructure & automation** — deployment, observability, and automated testing.
 - 🌱 **Embedded & energy systems** — firmware, control software, and edge computing.
+- 🤖 **AI & agentic engineering** — LLM-powered agents and AI-enabled development workflows.
